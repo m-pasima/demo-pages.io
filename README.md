@@ -11,6 +11,7 @@ I am a DevOps engineer passionate about open-source projects.
 - [Project 2](https://github.com/m-pasima/AWS-Terraform-security-and-best-practices.git)
 
 ## Contact
-- Email: [Email](mailto:passypet@gmail.com)
-- Phone number: [Call](tel:+44753xxxxxx)
+- Email: passypet@gmail.com
+- Phone number: 0753xxxxxx
+
 
